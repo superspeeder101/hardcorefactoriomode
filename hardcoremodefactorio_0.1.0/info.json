@@ -1,0 +1,11 @@
+{
+  "name": "hardcoremodefactorio",
+  "version": "0.1.0",
+  "title": "Hardcore Factorio",
+  "author": "superspeeder101",
+  "contact": "andy@delusion.org",
+  "homepage": "delusion.org",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16.0"],
+  "description": "A test mod"
+}
