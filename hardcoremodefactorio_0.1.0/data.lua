@@ -10,3 +10,5 @@ require("prototypes.items.item")
 require("prototypes.recipes.recipe")
 require("prototypes.entities.entity")
 require("prototypes.category")
+
+require("util.functions")
