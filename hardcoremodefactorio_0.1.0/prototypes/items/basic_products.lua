@@ -34,3 +34,5 @@ createitemsubgroup("sawing-machines", "production", "c-d")
 additem("auto-control-circuitry", "circuits/auto-control-circuitry.png", 32, "main-inventory", "circuits", "a[auto-control-circuitry]", 200)
 additem("motor", "motor.png", 32, "main-inventory", "intermediate-product", "a[motor]", 200)
 additem("power-supply", "circuits/power-supply.png", 32, "main-inventory", "circuits", "b[power-supply]", 200)
+
+
